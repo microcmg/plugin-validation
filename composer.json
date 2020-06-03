@@ -1,0 +1,19 @@
+{
+	"name": "microcmg/plugin-validation",
+	"description": "The Validation Plugin of Micro CMSGears provides the default form validators.",
+	"homepage": "http://www.cmsgears.org",
+	"type": "package",
+	"keywords": [ "microcmg", "cmsgears", "plugin", "validation" ],
+	"license": "GPL-3.0-or-later",
+	"support": {
+        "resources": "http://www.cmsgears.org"
+	},
+	"autoload": {
+		"psr-4": {
+			"cmsgears\\validation\\": ""
+		}
+	},
+    "require": {
+		"microcmg/module-core": "*"
+    }
+}
