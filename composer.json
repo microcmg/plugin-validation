@@ -4,7 +4,7 @@
 	"homepage": "http://www.cmsgears.org",
 	"type": "package",
 	"keywords": [ "microcmg", "cmsgears", "plugin", "validation" ],
-	"license": "GPL-3.0-or-later",
+	"license": "MIT",
 	"support": {
         "resources": "http://www.cmsgears.org"
 	},
